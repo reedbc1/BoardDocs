@@ -1,7 +1,4 @@
 # SLCL Board Docs AI Assistant
-## Website
-- App is available through Streamlit Community Cloud at [boarddocs.streamlit.app](https://boarddocs.streamlit.app/)
-
 ## Description:
 - Uses RAG to retrieve relevant parts of SLCL meeting minutes and uses AI to answer a query based on the documents.
 
