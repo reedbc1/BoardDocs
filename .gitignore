@@ -219,5 +219,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-#node
+# node
 node_modules
+
+# chroma
+chroma_db
+
+# indecis
+bm25_index.pkl
+chroma.sqlite3

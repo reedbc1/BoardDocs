@@ -29,12 +29,17 @@ def rebuild_index():
                 break
             except PermissionError as e:
                 if attempt < max_attempts - 1:
-                    print(f"ChromaDB is locked, waiting 2 seconds... (attempt {attempt + 1}/{max_attempts})")
+                    print(
+                        "Could not remove ChromaDB "
+                        f"({e!r}); waiting 2 seconds... "
+                        f"(attempt {attempt + 1}/{max_attempts})"
+                    )
                     time.sleep(2)
                 else:
-                    print(f"\\nError: Cannot delete {INDEX_PATH} - the database is in use.")
-                    print("Please close any applications using the database and try again.")
-                    print("(Close Python processes, Streamlit apps, or terminals accessing the DB)")
+                    print(f"\\nError: Cannot delete {INDEX_PATH}: {e!r}")
+                    print(f"Failing path: {e.filename or 'unknown'}")
+                    print(f"Windows error code: {getattr(e, 'winerror', 'unknown')}")
+                    print("Another process may have the file open, or Windows may be denying deletion for another reason.")
                     sys.exit(1)
     
     print("\\nCreating new vector store with date metadata and BM25 index...")

@@ -1,17 +1,18 @@
-import os
 import json
-import re
+import os
 import pickle
+import re
 import time
 from datetime import datetime
-from dotenv import load_dotenv
-from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_chroma import Chroma
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from sentence_transformers import CrossEncoder
-from rank_bm25 import BM25Okapi
+
 import chromadb
+from dotenv import load_dotenv
+from langchain_chroma import Chroma
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from rank_bm25 import BM25Okapi
+from sentence_transformers import CrossEncoder
 
 load_dotenv()
 
@@ -146,15 +147,22 @@ def create_llm():
     )
     return llm
 
-# Initialize or load vector store
-if os.path.exists(INDEX_PATH):
-    print("Loading existing vector store...")
-    vectorstore = load_vectorstore()
-else:
-    print("Creating new vector store...")
-    vectorstore = create_vectorstore()
-
+# Load expensive resources only when a query actually needs them. In particular,
+# rebuild_index imports this module before deleting INDEX_PATH, so opening Chroma
+# here would make that process lock the SQLite file it is about to remove.
+vectorstore = None
 llm = None
+
+def get_vectorstore():
+    global vectorstore
+    if vectorstore is None:
+        if os.path.exists(INDEX_PATH):
+            print("Loading existing vector store...")
+            vectorstore = load_vectorstore()
+        else:
+            print("Creating new vector store...")
+            vectorstore = create_vectorstore()
+    return vectorstore
 
 def get_llm():
     global llm
@@ -284,9 +292,10 @@ def query_documents(question, verbose=False):
     # HYBRID SEARCH: Combine BM25 and semantic search
     
     # 1. Semantic search with ChromaDB (no filter - ChromaDB has bug with query+filter)
+    active_vectorstore = get_vectorstore()
     t0 = time.perf_counter()
     try:
-        semantic_docs = vectorstore.similarity_search_with_score(question, k=100)
+        semantic_docs = active_vectorstore.similarity_search_with_score(question, k=100)
         t1 = time.perf_counter()
         
         if verbose:
