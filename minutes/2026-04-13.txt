@@ -1,0 +1,366 @@
+{
+  "name": "Regular Meeting  - Apr 13 2026",
+  "description": "1640 S. Lindbergh Blvd., St. Louis, MO 63131",
+  "meeting_id": 233,
+  "date": "2026-04-13"
+}
+
+---
+
+Regular Meeting - Apr 13 2026 - Minutes - Html
+Split-screen / Notes
+Regular Meeting - Apr 13 2026 Minutes
+Monday, April 13, 2026 at 3:30 PM
+1640 S. Lindbergh Blvd., St. Louis, MO 63131
+1.
+CALL TO ORDER
+A.
+B.
+Roll Call
+Library Board Members
+Present:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Absent:
+Johnny Wang
+Administrators and Other Guests Present
+:
+Eric Button, Roberto Munster, Laura Taylor, Jennifer McBride, Gib Van Cleve, Lisa Stump, Lashly and Baer, and Allen Bruce, St. Louis County
+Others Attending
+:
+Lindsey Heffner, Ashley Sexton, Miriam Whatley, Lindsey Piech, Trista Doyle, Emma Figueroa, Hannah Axt, Sarah Kuntz Jones, Emily Althoff, Natalia Catlett, Megan Phifer-Davis, Dany Nenninger, Chris Goodman, Sarah Wood, Alaina Culbertson, Carrie Robb, Carmeron Riesenberger, Deanne Davis, Rachel Dippel, Brent Trout, Crystal Harris, Melissa Hupp, Spring Galey, Yecenia Arango, Melissa Bauer, Sarah Heend, Kelli Reeves, Amy Hanaway, Andrea Carter, Katie Keeven, Kalin Preston, Nicole Walsh, Darien Jones, Miranda Gibson, Nina Johnston, Tarza Tawfiq and Rebecca Tafra Catlett
+2.
+APPROVAL OF MINUTES
+A.
+Approval of February 23, 2026, Minutes
+Administration recommended approval of the
+February 23, 2026, minutes.
+Moved by:
+Lynn Beckwith; seconded by: May Scheve Reardon
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+3.
+PUBLIC COMMENTS
+A.
+Public Comments
+No one spoke before the Board.
+4.
+REPORTS
+A.
+Treasurer's Report - January 2026
+Laura Taylor, CFO, presented.
+Administration recommended approval of the January 2026 Treasurer's Report, subject to audit.
+Moved by:
+Ted Sanditz; seconded by: Lynn Beckwith
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+B.
+Treasurer's Report - February 2026
+Laura Taylor, CFO, presented.
+Administration recommended approval of the February 2026 Treasurer's Report, subject to audit.
+Moved by:
+Lynn Beckwith; seconded by: Ted Sanditz
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+C.
+Director and CEO's Report
+Eric Button, Deputy Director, gave the Director and CEO’s report. He informed the Board and guests that Kristen Sorth was out sick. He also stated that the Board has migrated to new software and to be patient as everyone learns the new platform.
+Mr. Button delivered the Dashboard for February and March. St. Louis County Library experienced strong community engagement across many areas of service. Visits to branches and bookmobiles increased compared to the previous year, with several branches seeing notable growth. While overall circulation saw a slight decrease, several locations experienced increases in borrowing and digital usage through eMedia.
+Usage of the Library’s mobile app remained strong.
+Programming continued to attract large audiences, including well-attended Black History Month events and author events. Library employees also provided a wide range of services to patrons, including technology assistance, notary services, and support for RECA claims. Overall, Library use remained high, with increased public computer usage and strong market penetration compared to peer libraries.
+In March, the Acquisitions Department ordered 17,921 copies of 1,825 titles and received 16,675 items. The Cataloging Department added 1,085 new titles.
+Processing prepared 14,935 items for circulation. (Plan: Promote Literacy 1a)
+The Library welcomed 247,502 visitors to branches and bookmobiles.
+This is an increase of 9% over the number of visitors in February 2025. The History and Genealogy department saw a 23% increase.
+Almost all branches saw an increase in visits, including:
+Thornhill Branch - 27%
+Natural Bridge Branch - 19%
+Clark Family Branch - 16%
+Lewis & Clark Branch - 14% (Plan: Increase Access 1)
+In February, an average of 9,097 patrons visited the Library on weekdays. An average of 5,510 patrons visited the Library on weekends. Here is the breakdown of visits system-wide by day of the week:
+Sunday
+2,368
+Monday
+7,500
+Tuesday
+10,314
+Wednesday
+10,193
+Thursday
+9,582
+Friday
+7,895
+Saturday
+8,651 (Plan: Increase Access 1)
+The Library’s mobile app was launched 101,675 times in February.
+The home screen was viewed 110,543 times
+72% of users were on iPhone
+22% were on Android
+101,486 catalog searches were performed
+33,004 holds were created using the app
+114,632 library account logins were completed
+306 items were checked out
+Events & Classes had 3,489 views (Plan: Increase Access 1d)
+Mr. Button reported the Library hosted 1,423 programs in February 2026, with 28,571 total attendees. This represents a 10% increase in programs including, 118 Black History Month Celebration programs, with 4,788 attendees which is a 20% increase in celebration attendance. Author Tayari Jones attracted the most attendees, with 420 patrons attending her author event. (Plan: Sense of Community 1b)
+The Library provided 1,592 patrons with notary services in February 2026. Library employees offered brief technology help to 9,925 patrons and extended technology help to 1,287 patrons. 1,472 COVID tests were distributed, along with 19 gun locks and 17 Narcan kits. (Plan: Promote Literacy 3b, Sense of Community 3c)
+Library Employees continued to offer RECA assistance. Since August, the Library has provided RECA assistance to 8,970 patrons and provided RECA certification for 12,468 patrons, distributed 4,680 forms, and performed 12,468 RECA lookups. (Plan: Sense of Community 3c)
+The dashboard includes a graph comparing market penetration for St. Louis County Library with other libraries in our budget category and population category. Market penetration is defined as the percentage of households in our service area that are active Library users. In 2025, SLCL’s market penetration ranged from 34–36%. Other libraries in our budget category averaged 32–34%, and those in our population category averaged 31–34%. In each quarter of 2025, SLCL’s market penetration averaged higher than or equal to that of comparable libraries. (Plan: Increase Access 2)
+Ms. Patterson asked Mr. Button if he could provide the Board with the names of the peer libraries OrangeBoy utilized and what the benchmarks were. He responded that he would gather and share the information with the Board.
+Mr. Button reported the Library is launching a new partnership with St. Louis Survivors Legal Support (SLSLS) to help survivors of intimate partner violence receive the legal support that they need. SLSLS provides a wide range of legal services, including helping survivors file a petition for an Order of Protection and representing survivors in court proceedings. In this partnership with the Library, a team will be stationed at the Lewis & Clark Branch every Monday and at the Natural Bridge Branch every Tuesday, starting on May 18. SLSLS will have open office hours from 9:00 a.m.-12:00 p.m. at these branches to help survivors prepare a petition for an Order of Protection. The Library’s social workers will also be available during these hours to connect survivors with additional resources as needed. SLSLS is also partnering with two police departments to host similar events. All of these efforts together are named the North County Justice Project. (Plan: Sense of Community 3a, 3c)
+History & Genealogy’s Mobile Memory Lab will be at Spin, Swap, and Sustain: A Nine PBS Record Exchange event on April 10.
+Attendees can learn how to digitize old media and get a sneak peek of the new season of What Do I Do With This–which features digitization services available at SLCL. There will also be food trucks and a live DJ at the event. (Plan: Sense of Community 2a)
+The Missouri Hills Youth Center, operated by the Missouri Division of Youth Services (DYS), prioritizes the rehabilitation and education of court-committed youth aged 12–18 through therapeutic, small-group residential care rather than traditional incarceration. To support this mission, Bookmobiles and Mobile Services developed a specialized monthly outreach model, inspired by the structure of senior van services, to provide consistent Library access to this population. The program’s inaugural visit on March 16th was a success with 72 students from five on-site cottages engaging with Library employees to obtain library cards, check out books and request materials. (Plan: Sense of Community 2a, 3b)
+Mr. Button shared the rescheduled Novel Creations Spring Pop-Up Market took place on Saturday, March 21st at Clark Family Branch, after being postponed due to snow in November. Twenty-six vendors participated and 387 shoppers visited.
+Many of the vendors sold out of their products. (Plan: Promote Literacy 3a, 3c)
+The next cohort of Encore Entrepreneurs has started. Out of 35 applicants, ten entrepreneurs were chosen to take part in the 8-week learning series. The Pitch Event will be held on Tuesday, May 12th in the evening at the Clark Family Branch. (Plan: Promote Literacy 3a, 3c)
+Justice Services was invited to table at an event at the Women’s Eastern Reception, Diagnostic and Correctional Center, where employees shared information about Library resources, services, and the Reference by Mail program. This marked the first time the Library has been invited to a women’s prison, one of only two in the state, and provided an opportunity to connect directly with incarcerated women. Although the Library already partners with the Department of Corrections to offer Reference by Mail, many of the approximately 200 women who visited the table were not aware the service existed. One correctional officer described the Library as a “special unicorn,” a reflection of how impactful the visit was. (Plan: Sense of Community 2a, 3b)
+Daniel Boone Branch hosted a successful RECA event on Saturday, March 28, with 125 people in attendance. Some of the speakers from the event were able to review people’s applications in the upstairs program room while the event was going on and Library employees were able to provide certification lookups for people. (Plan: Sense of Community 3c)
+The Library had great participation for the Winter Reading Challenge this year, with 28,386 patrons registering and 21,996 patrons completing the challenge. That is a 77% completion rate. There were 23% more registrations than the previous year’s challenge. Patrons collected badges to complete the challenge with the most popular badge being “Check out an Ebook or eAudiobook” with over 3,000 adults completing that badge. Another popular badge was “Request a personalized reading list,” with 716 patrons making this request. That means the Youth Services and Readers Advisory teams recommended over 3,500 books to our patrons. (Plan: Promote Literacy 1b)
+Mr. Button shared that Adult Services organized the second annual St. Louis Area Volunteer Fair at the Clark Family Branch on Monday, March 23. Over the course of three hours, 424 community members connected with 42 local nonprofit organizations actively seeking volunteers. Participating groups included Library partners such as Aging Ahead, Eye Thrive, Nine PBS, and the St. Louis Genealogical Society and others. (Plan: Promote Literacy 3d, Sense of Community 3a)
+The Library welcomed 1,690 patrons to the 26th Annual Daffodil Show at the Clark Family Branch on April 3rd and 4th, surpassing last year’s attendance by over 500.
+Adult Services partnered with the Greater St. Louis Daffodil Society for the second year to present over 300 varieties of award-winning daffodils, plus four supporting programs like All About Daffodils, Make and Take Daffodil Bouquets, and Painting Daffodils. (Plan: Promote Literacy 3d)
+The Library’s Digital Navigators are expanding their AI topic offerings for patrons.
+They plan to both identify how applicable uses of AI can be incorporated into existing classes and Tech Talks and also develop new offerings centering around the topic of applicable use of AI for patrons. (Plan: Promote Literacy 3b)
+The Library will again be working with the Sheldon to collect donations of musical instruments from patrons during the month of June. (Plan: Sense of Community 3a)
+In Fall of 2025, the branches responded to a survey regarding what genres of Juvenile Non-fiction books were the most popular.
+Based on that feedback, bins displaying books with these topics were arranged at branches.
+As a result, we have seen a significant increase in circulation on the topics included in the bins. Here are the increases in circulation by topic, comparing January - March 2025 with January - March 2026: (Plan: Promote Literacy 1a)
+Space
+Transportation
+Animals
+To-Do
+Dinosaurs
+Sports
+2465
+267
+14804
+14537
+2005
+7557
+2685
+290
+18086
+16938
+2413
+10191
++8.92%
++8.61%
++22.17%
++16.52%
++20.35%
++34.86%
+There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles are
+attached. (Plan: Increase Access 2)
+Here are pictures from various events and programs that have taken place over the last two months including:
+Born to Read Playdate at Grant's View Branch, Celtic Strings Concert at Clark Family Branch, Learn to Smock at Thornhill Branch, Holi Celebration at Rock Road Branch, Cooking for Kids at Operation Food Search, Read to Rabbits at Cliff Cave Branch, and We're Dancing at the Library at Daniel Boone Branch.
+Here also is a picture of a display at the Parkview Branch for Women’s History Month.
+(Plan: Promote Literacy 1b, 1c, 3d, Sense of Community 3a)
+Mr. Button shared the following impact stories:
+During the Jigsaw Puzzle Tournament at Bridgeton Trails Branch, an older lady arrived and said she hadn’t registered and didn’t have a team.
+She asked if she could watch for a few minutes as a spectator. A group of much younger people overheard and immediately invited her to join their team and they all had a good time together. This is a perfect illustration of how the Library creates a sense of community and belonging. (Plan: Sense of Community 1a)
+This is an email that Ms. Sorth received from an individual who was at the Public Library Association Conference and attended a presentation by Library employees, Megan Phifer-Davis and Miranda Gibson about Justice Services at the Library.
+“I wanted to share that I had the opportunity to attend a session led by members of your team, Miranda and Megan, focused on services for justice‑impacted people. The session was excellent, and it was clear how thoughtful, knowledgeable, and committed your team is in this important work. The way they approached the conversation—very much grounded in a
+“leading with yes”
+mindset—was especially impactful and clearly reflects how that mantra has helped the team grow while expanding meaningful, compassionate support to the community. You should be incredibly proud of the work they are doing. It speaks volumes about your leadership and the culture you’ve helped foster.” (Plan: Sense of Community 2d, 3a, 3b)
+Dear Kristen - My name is Rose and I’m the lady who wrote you about my brother several years back. He had been incarcerated and I must say books absolutely changed his life for the better while there (you may recall the book covers I sent to you - in the end he’d read near 500 books).
+I’m writing today to tell you how you and your staff have changed the lives of all who come to the author series for the better. I am so proud of what you, and with your leadership, your team have accomplished. I’m forever boasting to my friends about the incredible variety of authors we have met over the past few years. Truly, I’m so appreciative of you and your exceptional staff. No doubt we’ll continue to be blessed this year and for years to come by having the author series at SLCL. (Plan: Promote Literacy 1c, Sense of Community 3b)
+From an online review:
+St. Louis County Libraries are treasures! County residents can get a free library card and get $5 of printing credits. There are always events for youth and adults. You can get tax help, certifications, and literacy assistance. We appreciate the kid friendly areas and this one has a fenced in outdoor playground which is perfect on a good day. This is a very accessible location with great restrooms and hearing aids for book reading. The computer lab is very user friendly too. (Plan: Promote Literacy 3b, Sense of Community 3b, Increase Access 1b)
+Bookmobile and Mobile Services received 58 thank you notes from students at a special bookmobile visit.
+Employees visited Highcroft Ridge Elementary School in the Parkway School District for Read Across America Week.
+Employees visited with 327 students, checked out 569 items, and made 63 new library cards. Some students came with their parents’ library cards and were very excited for a chance to be on the Bookmobile. (Plan: Sense of Community 2a)
+Library Administrative Updates
+Mr. Button reported that, following Jennifer Alexander's retirement and resignation from the Pension Board, the Library conducted an employee election among eligible participants in March. Heather Neill was elected to fill the vacancy and serve a four-year term on the Pension Board.
+The Reference & User Services Association (RUSA): A Division of the American Library Association has awarded Brent Trout and the History & Genealogy Department the History & Genealogy Achievement Award for Trout’s leadership within the History & Genealogy Department relating to the transformation of the department from traditional genealogy services to adapting to assisting patrons with their RECA Claims. (Plan: Increase Awareness 2c)
+The Library is beginning the benefits renewal process for 2026-2027 and open enrollment is anticipated to take place in July. Through Daniel and Henry, the Library will market benefits that are due to be renewed to different providers to ensure we provide the best possible benefits and the most competitive prices. The Library will be marketing health and dental insurance for renewal, as well as ancillary benefits. (Plan: Sense of Community 1c)
+Mr. Button shared that in March, three Library employees were selected to be part of the cohort of 2026-2027 You Belong Scholars by the Missouri Library Association. The You Belong Program is a statewide retention program designed to retain historically underrepresented library workers in Missouri. You Belong Scholars receive a scholarship for their undergraduate or MLIS degree program, 1:1 mentoring from a Missouri library professional who is also from an underrepresented group, participation in a Leadership Academy at the MLA Annual Conference, and all travel expenses to attend a national library conference. The program is supported by a 3-year grant from IMLS (Institute of Museum and Library Services). The three Library employees selected as 2026-2027 You Belong Scholars are:
+Yoli Buie, Assistant Manager of Circulation at Rock Road Branch
+Kita Parnell, Assistant Manager of Circulation at Clark Family Branch
+Anna Thomas, Digital Navigator at Lewis & Clark Branch (Plan: Sense of Community 1c)
+The search for a replacement for the Human Resources Manager is ongoing. Our partner, EMD Consulting, is conducting initial screenings and in-person interviews are expected to take place in late April.
+On Wednesday, March 11, Tarza Tawfiq, Employee Relations Coordinator, Miranda Gibson, Justice Services Assistant Manager and Mason Scott, Justice Service Specialist, attended the Urban League Hiring Fair at the Ferguson Community Center. The event was hosted by the Urban League Transition for Change Employment Services, which connected job seekers with over 20 employers and resources. The Justice Services team collected over 50 intake forms as part of the Tap In Center to warrant recalls. Library jobs were also promoted to the job seekers. The Tap In Center was promoted by the Urban League at a recent event which brought in over 100 intake forms as a result of the job fair. (Plan: Sense of Community 1c, 2d, 3b)
+On Thursday, March 26, Tarza Tawfiq, Employee Relations Coordinator and Yecenia Arango, Assistant Branch Manager of Circulation at the Lewis and Clark Branch, attended the Spring Multicultural Job Fair hosted by the Hispanic Chamber of Commerce. Over 40 job seekers stopped by the SLCL table and expressed their interest in working at the Library as well as resources available for job seekers. The Job Fair was in partnership with the Asian American Chamber, Heartland Black Chamber, Afghan Chamber, SLATE, The International Institute and the African American Chamber. (Plan: Sense of Community 1b, 1c, 2d)
+Mr. Button shared that National Library Week takes place April 19-25. This year’s theme is “Find Your Joy.” Communications is planning to celebrate the week with the launch of the new Branch Out Library cards, Branch Out T-shirts for every employee, fun content on social media (including a video highlighting our amazing Library of Things), coverage of special bookmobile events at area schools, and an eBlast to lapsed patrons inviting them back to the Library. (Plan: Increase Access 2)
+STL Summer Adventure materials are in progress and include a multi-page reading log (English and Spanish version), bookmarks, digital graphics, a promotional video to be shown during school visits, and paid advertising including a transit campaign, radio ads, Spanish language commercials with Telemundo St. Louis, ads with Nine PBS, social media boosts, and print ads in the St. Louis American and St. Louis Post-Dispatch. (Plan: Promote Literacy 1b, Increase Access 2c)
+The employee-led Green Team is hosting an upcoming event called "Purge and Splurge." This initiative is part of the group's ongoing efforts to promote environmental stewardship, sustainability, and team building among employees. During Purge and Splurge, employees are invited to bring gently used, unwanted items to donate and "shop" the collection for new treasures. This model diverts perfectly usable goods from landfills. All remaining items at the end of the event will be packaged and donated to a local non-profit. The event is on Sunday, May 3 at the Oak Bend Branch.
+The Green Team continues to host community branch cleanups throughout the year. Members will routinely pick up litter and beautify the neighborhoods and grounds immediately surrounding our various branch locations. (Plan: Sense of Community 1c, 1d)
+In March, all Library employees were enrolled in a set of 25 online micro courses provided by Hicks-Carter-Hicks on topics including stress management, emotional intelligence, adaptability, respect & civility, listening, leadership, and more. (Plan: Sense of Community 1c, 1d)
+Mr. Button shared that many Library employees were selected to present this year at the Public Library Association Conference including:
+Presenters: Becky Tafra Catlett, Courtney Waters, Angie Bayne Topic: Storytelling Festival: Build Community Connections on Any Scale
+Presenters: Sarah Steele, Marlee Keeven, Kendall Kidder-Goshorn Topic: Wrangling Reservations: Ensuring Equitable Access to Your Library of Things
+Presenters: Miranda Gibson, Megan Phifer-Davis
+Topic: Reentry Starts Here: Building Services for Justice-Impacted People
+Presenters: Jennifer Gibson, Charlene Oldham, April Roy
+Topic: Retaining a Diverse Library Workforce: The You Belong Project
+Presenters: Laura Polak, Kristen Sorth, Nicole Clawson, Meredith Murray
+Topic: Gateway to Reading: Boosting Literacy with Resource Kits and Workshops
+(Plan: Sense of Community 2d, Increase Access 2c)
+The 2026 Staff Development Cohort has been selected and will attend the May Board Meeting.
+The Cohort is the Library’s professional development cohort for non-management employees. It is designed to foster the interests of future leaders by bridging the gap between daily operations and system-wide strategy. The cohort will gain access to leadership and learn about the inner workings of the Library to satisfy their curiosity.
+The 2026 cohort members include:
+Cole Sawyer, Adult Programming Coordinator, Adult Services
+Meghan Gillen, Library Associate, Cliff Cave Branch
+Arianna Amann, Library Associate, Lewis & Clark Branch
+Mazie Rudolph, Library Associate, Grand Glaize Branch
+Janie Stamm, Library Associate, Eureka Hills Branch
+Jenna Garofolo, Library Associate, Prairie Commons Branch
+Hallie Roll, Library Associate, Parkview Branch
+(Plan: Sense of Community 1c, 1d)
+Library Construction, Facility, IT and Transportation Update
+Mr. Button shared the groundbreaking for the new Guy and Judy Jaffe Family Branch took place on February 24
+th
+.
+The Library is finalizing the pre-construction stage for the new Guy and Judy Jaffe Family Branch. During this stage, ICS is finalizing agreements with all subcontractors and LJC is leading the process to obtain all permits from the City of Chesterfield and St. Louis County. Construction is expected to begin in late April and substantial completion is expected by mid-2027. (Plan: Increase Access 1a)
+The first few months of 2026 were focused heavily on the closure of the Samuel C. Sachs Branch. Building Systems and Facilities successfully managed the redistribution of furniture across the system and prepared dedicated storage space at the Lynn Beckwith, Jr. Administrative Building for the branch's collection. To maximize resources, the team salvaged hardware including sinks, door openers, and fixtures, for reuse at other locations. Additionally, all existing shelving was dismantled and stored for reinstallation once the new branch construction is finalized. (Plan: Increase Access 1a)
+The new window film from Safe Haven was installed on the Lewis & Clark Branch exterior workroom windows to enhance employee safety in this area. (Plan: Increase Access 1c)
+Library Foundation and Grants
+Mr. Button announced on April 23 that the Foundation will host Take Action for Libraries Day, a 24-hour online giving campaign. The goal for the day is $10,000. All funds raised will be unrestricted support for the Library. (Plan: Increase Access 2b)
+The Young Friends Board, the Prologue Society, has welcomed its founding cohort. The group met in late March to make leadership decisions and set an application process for future members. They will host a happy hour event for prospective members in early August. (Plan: Increase Access 2c)
+In partnership with St. Louis Ambush, a professional arena soccer team located in St. Charles, the Foundation will host a fundraising night at their game on June 27th. A portion of tickets sold using a special library code will be donated to the Foundation. Tickets can be purchased now. (Plan: Increase Access 2c)
+Mr. Button reported that the Foundation will be partnering with Junior Achievement (JA) Biz Town on a Library space at their facility in Chesterfield.
+The partnership will include an in-school curriculum component and an in-person visit to Biz Town.
+Students will learn about philanthropy, how to be part of a community, and what it’s like to work at a library.
+JA BizTown combines in-class learning with a day-long visit to a simulated town. This popular learning experience allows elementary school students to operate banks, manage restaurants, write checks, and vote for mayor. Students are able to connect the dots between what they learn in school and the real world. JA BizTown is recommended for grades 4-6. Following participation in the learning experience, students will be able to:
+Discuss the roles they play as citizens, workers, and consumers in their community and relate those roles to the free enterprise system.
+Discuss the importance of citizen rights and responsibilities in a community.
+Demonstrate a basic understanding of the free enterprise system.
+Build money management skills through a practical knowledge of economic concepts and banking practices.
+Develop an understanding of basic business practices and responsibilities.
+Display the soft skills necessary for successful participation in the world of work. (Plan: Increase Access 2a, 2c)
+The Library and the Foundation will be working with St. Louis Magazine on a new program for children.
+PNC Bank and the Clark Family will be sponsoring Story Explorers.
+Each month, St. Louis Magazine will invite parents and toddlers to come together for a shared experience centered on community, early literacy, and kid-friendly fun.
+Families are welcomed into different library branches on the 2
+nd
+Thursday of each month at 6:00 p.m. to explore stories and play.
+Each event features a thoughtfully selected book, a brief read-aloud, and a simple hands-on activity. After the program, families are encouraged to explore the Library, discover branch offerings, and build lasting habits around reading and learning together.
+The program begins in May and continues through April of 2027.
+(Plan: Promote Literacy 1b, Sense of Community 3a, Increase Access 1a)
+The Foundation approved 10 Alison Grants for a total of $15,665.
+SLCL Staff Art Show
+Anime Fest at Clark Family Branch
+Anime Fest - Artist Alley Apprenticeship
+Older Adults Brave Tech Conference at Florissant Valley Branch
+Social Worker Play Area at Lewis & Clark Branch
+Mini Bookmobiles for National Bookmobile Day
+Yarn Library at Cliff Cave Branch
+Passport to the Kitchen at Daniel Boone Branch
+The Alison Grants committee also approved funds to be used for two MLA Conference Scholarships. Scholarships will be awarded to two non-managerial staff to attend the annual MLA conference. The application process will open to staff later this summer. (Plan: Promote Literacy 3d, Sense of Community 1d, 2d)
+Grants:
+The Library Foundation received a $2,500 grant from the Violence Prevention Commission, part of the St. Louis Mental Health Board, to support the Teen After Hours Skate & Hang on May 8 at the Lewis & Clark Branch. (Plan: Sense of Community 3b)
+The Library received a $12,155 LSTA (Library Services and Technology Act) Spotlight on Literacy grant to support the literacy bag distribution in partnership with Nurses for Newborns. (Plan: Promote Literacy 1a, Sense of Community 2a)
+The Library was selected as a participant in the ULC Future Civic Leaders Cohort, a grant and peer-learning program that equips librarians to serve as civic learning facilitators and empowers young adults ages 18-24 to be active contributors to their communities. Cole Sawyer, Adult Programming Coordinator, will participate in two in-person convenings hosted by ULC to develop civic learning experiences for young adults in St. Louis. Only 7-9 other ULC member libraries were selected. Participant libraries also receive $15,000 to support civic education programming. (Plan: Promote Literacy 3d, Sense of Community 1a, 2d)
+Enterprise Mobility has increased their support for Library social workers from $10,000 to $20,000. (Plan: Sense of Community 3c)
+Author Events (Plan: Promote Literacy 1c)
+2026 Author Statistics - Year-to-date:
+Events: 40
+Attendance: 11,300
+Upcoming Closures:
+Mr. Button reported that the Clark Family Branch will close to the public on
+Thursday, April 16, 5:00 p.m
+., for a ticketed event with actress Jennie Garth and all day Saturday, May 2, for the Wings of Fire/FanWing Festival. Both events are sold out.
+April/May Author Events
+Ed Wheatley, “The Finest in the Field: A History of Baseball Through 50 Iconic Gloves,” Tuesday, April 14, 7:00 p.m. - Clark Family Branch - Free
+Jennie Garth, “I Choose Me: Chasing Joy, Finding Purpose, and Embracing Reinvention,” Thursday, April 16, 7:00 pm - Clark Family Branch - Ticketed/Sold Out
+Terry Tempest Williams, “The Glorians: Visitations from the Holy Ordinary” - Saturday, April 18, 7:00 p.m. - Clark Family Branch - Ticketed
+Brandon Mull, “Forbidden Mountain” - Monday, April 20, 6:30 p.m. - Clark Family Branch - Free
+Chanda Prescod-Weinstein, “The Edge of Space Time: Particles, Poetry, and the Cosmic Dream Boogie,” Friday, April 24, 7:00 p.m. - Clark Family Branch - Free
+Alka Joshi, “Six Days in Bombay,” Monday, April 27, 7:00 p.m. - Clark Family Branch - Free
+Sally Hepworth, “Mad Mabel,” Tuesday, April 28, 7:00 p.m. - Clark Family Branch - Free
+Steve Brusatte, “The Story of Birds: A New History From Their Dinosaur Origins to the Present,” Wednesday, April 29, 7:00 p.m. - Clark Family Branch - Free
+Giulia Enders, “Organ Speak: What it Really Means to Listen to Our Bodies,” Thursday, April 30, 7:00 p.m. - Clark Family Branch - Free
+Tui Sutherland, FanWing Festival/Wings of Fire series, Saturday, May 2, 9:00 a.m.-5:00 p.m. - Clark Family Branch - Ticketed/Sold Out
+Nicola Harrison, “The Island Club,” Monday, May 4, 7:00 p.m. - Clark Family Branch - Free
+Jane Smiley, “Lidie: The Further Travels and Adventures of Lidie Newton,” Tuesday, May 5, 7:00 p.m. - Clark Family Branch - Free
+Melani Sanders, “The We Do Not Care Club Coloring Book,” Wednesday, May 6, 7:00 p.m. - Clark Family Branch - Ticketed/Sold Out
+Craig Fehrman, “This Vast Enterprise: A New History of Lewis and Clark,” Thursday, May 7, 7:00 p.m. - Clark Family Branch - Free
+Dan Santat, “Sidekicks: Thick as Thieves,” Friday, May 8, 6:30 p.m. - Clark Family Branch - Free
+Lerone Martin, “Young King: The Making of Martin Luther King, Jr.” - Saturday, May 9, 7:00 p.m. - Clark Family Branch - Free
+Douglas Stuart, “John of John,” Monday, May 11, 7:00 p.m. - Clark Family Branch - Free
+Julie Murphy, “The Undergrads: Student Union,” Tuesday, May 12, 7:00 p.m. - Clark Family Branch - Free
+H.W. Brands, “American Patriot: The Life of George Washington,” Wednesday, May 13, 7:00 p.m. - Clark Family Branch - Free
+Dana Perino, “Purple State,” Thursday, May 14, 7:00 p.m. - Clark Family Branch - Ticketed
+Veronica Roth, “Seek the Traitor’s Son,” Saturday, May 16, 7:00 p.m. - Clark Family Branch - Ticketed
+Christina Baker Kline, “The Foursome,” Monday, May 18, 7:00 p.m. - Clark Family Branch - Free
+Joe Posnanski and Michael Schur, “Big Fan: Two Friends, 82,490 Miles, and the Wild Wonderful Sports We Love,” Wednesday, May 20, 7:00 p.m. - Clark Family Branch - Ticketed
+Soman Chainani, “Young World,” Thursday, May 21, 7:00 p.m. - Clark Family Branch - Free
+Katherine Center, “The Shippers,” Friday, May 22, 7:00 p.m. - Clark Family Branch - Ticketed
+Senator Chris Murphy, “Crisis of the Common Good: The Fight for Meaning and Connection in a Broken America” - Friday, May 29, 7:00 p.m. - Clark Family Branch - Ticketed
+5.
+INFORMATIONAL
+A.
+None
+6.
+OLD BUSINESS
+A.
+None
+7.
+NEW BUSINESS
+A.
+2025 Library Audit
+Laura Taylor, CFO, presented the recommendation.
+Ms. Taylor introduced the auditors, Brittany Wolfram and Rick Gratz, from KEB.
+They presented the audit to the board, outlining their findings.
+KEB has issued an unmodified opinion on the Annual Comprehensive Financial Report.
+An opinion is said to be “unmodified” when the auditor has no reservations concerning the financial statements. This is also known as a “clean opinion”.
+They reported that the Library District is in a very strong financial position and thanked Laura and her team for all of their work on the audit.
+The Library Administration recommended the acceptance of the
+Annual Comprehensive Financial Report. Copies of the Annual Comprehensive Audit Report will be sent to the State Auditor and State Library as required by State Statute. The report will also be available on the Library’s website.
+Moved by:
+Lynn Beckwith; seconded by: Ted Sanditz
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+B.
+2026 Pension Contribution
+Laura Taylor, CFO, presented the recommendation.
+Library Administration recommended the Library Board authorize the
+recommended amount of $3,799,888 as the annual contribution to the Pension Plan for 2026.
+Moved by:
+May Scheve Reardon; seconded by: Lynn Beckwith
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+C.
+Roof Replacement - Prairie Commons Branch
+Kelli Reeves, Manager, Facilities, presented the recommendation.
+Library Administration recommended that the Library Board select D.E. Martin Roofing Co., Inc. to provide a roof replacement for the Prairie Commons Branch for the amount of $211,934, and that the Board authorize the Director and CEO to enter into and execute a contract to that effect.
+Moved by:
+Lynn Beckwith; seconded by: May Scheve Reardon
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+D.
+Additional Services Request #2 – Lamar Johnson Collaborative
+Roberto Münster, Chief Administrative Officer, presented the recommendation.
+Library Administration recommended that the Library Board approve a budget modification for the services agreement with Lamar Johnson Collaborative by increasing the grand total by $273,012 from $789,115 to $1,062,127, and that the Board authorize the Director and CEO to enter into and execute Additional Services Request #2 to that effect.
+Moved by:
+Ted Sanditz; seconded by: May Scheve Reardon
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+E.
+Naming Recommendation
+Ashley Sexton, Manager, Development, presented the recommendation.
+The Library Administration recommended the approval of the attached gift agreement and the naming of the Small Business Center as the Thomas M. and Shelley B. Smith Family Small Business Resource Center.
+Ms. Patterson commented that she does not like seeing signs with names on everything for a public institution.
+Moved by:
+Lynn Beckwith; seconded by: May Scheve Reardon
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+8.
+ADJOURNMENT
+A.
+Motion to adjourn
+Motion to adjourn
+Moved by:
+Ted Sanditz; seconded by: May Scheve Reardon
+Aye:
+Ted Sanditz, Lynn Beckwith, May Scheve Reardon, and Deborah Patterson
+Motion Carries 4-0
+Adjourned at 4:34 p.m.
+May Scheve Reardon,
+Board Secretary

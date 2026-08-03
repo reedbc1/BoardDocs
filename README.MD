@@ -7,8 +7,8 @@
 
 ## Usage:
 - run `python python_files/rag_system.py` to run the single query at the bottom of the file (best used for testing)
-- run `python python_files/rebuild_index.py` to rebuild FAISS and BM25 indexes (only necessary if new documents are added)
-- run `node scrapeDocs.js` to fetch more recent board docs. If new documents are fetched, rebuild indexes.
+- run `python python_files/rebuild_index.py` to rebuild ChromaDB and BM25 indexes (only necessary if new documents are added)
+- run `python scrape_docs.py` to fetch newly published board minutes. If new documents are fetched, rebuild the indexes.
 
 ## How It Works:
 ### Rebuilding Indexes
@@ -51,14 +51,11 @@ If `verbose=True`, additional details will be printed to the console, including 
 - request response
 
 ### Fetching Documents
-To fetch documents, run node scrapeDocs.js
-#### When `main` is run:
-<b>1. Retrieve board meeting IDs</b>
-- check previously processed meeting IDs.
-- retrieve board meeting metadata from website
-- process board meeting metadata
+To fetch documents, run `python scrape_docs.py`.
 
-<b>2. Retrieve meeting documents for every ID that hasn't been previously processed</b>
-- Download agenda (not currently used in RAG)
-- Download minutes (used in RAG)
-- Update retrieved IDs
+- The scraper retrieves meetings from the new Diligent Community API beginning on January 1, 2026.
+- It writes approved minutes to `minutes/` with a JSON metadata header used by the indexer.
+- Successfully fetched meeting IDs are tracked in `json_files/fetched_ids.json`. Meetings without published minutes are retried on later runs.
+- Override the date range with `--start-date YYYY-MM-DD` and `--end-date YYYY-MM-DD`, or with the `SCRAPE_START_DATE` and `SCRAPE_END_DATE` environment variables.
+
+After new minutes are downloaded, run `python python_files/rebuild_index.py` to make them searchable. Rebuilding requires `OPENAI_API_KEY`.

@@ -1,0 +1,212 @@
+{
+  "name": "Regular Meeting held via ZOOM - Jan 26 2026",
+  "description": "",
+  "meeting_id": 237,
+  "date": "2026-01-26"
+}
+
+---
+
+Regular Meeting held via ZOOM - Jan 26 2026 - Minutes - Html
+ST. LOUIS COUNTY LIBRARY DISTRICT
+MEETING OF THE BOARD
+VIRTUAL VIA ZOOM
+MONDAY, JANUARY 26, 2026
+The monthly meeting of the Board of the St. Louis County Library District was held virtually via Zoom on Monday, January 26, 2026, at 3:30 p.m. The agenda had been posted in all branches of the Library District at least 24 hours before the meeting.
+ATTENDANCE:
+Library Board Members:
+Johnny Wang, President
+Deborah Patterson, Vice President
+May Scheve Reardon, Secretary
+Ted Sanditz, Treasurer
+Dr. Lynn Beckwith, Member
+ADMINISTRATORS AND GUESTS ATTENDING:
+Kristen Sorth, Library Director & CEO; Eric Button, Deputy Director; Laura Taylor, CFO; Roberto
+Münster
+, CAO; Gib Van Cleve, Assistant Director, ITS; Jennifer Gibson, Assistant Director, Strategic Initiatives; Attorney Lyndee Fritz, Lashly Baer; and Courtney Harris, St. Louis County.
+OTHERS ATTENDING:
+Amy Hanaway, Ashley Sexton, Carrie Robb, Hannah Axt, Katie Holland, Melissa Hupp, Rebecca Clarke, Tarza Tawfiq, Emma Figueroa, Meredith Hopping, Darien Jones, Kelli Reeves, and Becky Tafra Catlett.
+MINUTES
+The Library Board approved the December 15, 2025, Library Board minutes.
+Motion by Lynn Beckwith, second by May Scheve Reardon.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith, May Scheve Reardon
+PUBLIC COMMENTS
+There was no one to speak before the board.
+TREASURER'S REPORT
+There was no Treasurer’s Report.
+DIRECTOR AND CEO'S REPORT
+Ms. Sorth delivered the 2025 Review, which included information on the Library’s annual statistics. In 2025, the Library continued to deliver high-impact services including circulation, programming, and community support, even as overall circulation and visits experienced modest decreases. In 2026, the Library will explore ways to boost circulation with the marketing options available through the Orange Boy Savannah platform, where we can tailor strategic messaging and marketing to patrons. Usage patterns continued to shift toward digital formats, with eMedia representing more than one-third of total circulation, nearly triple its share in 2019 (pre-pandemic), while demand for physical media such as DVDs decreased. The Library was successful in expanding and refreshing the physical collection, with newly introduced Gateway to Reading kits, games, and Tonies and Yotos devices showing strong early circulation and sustained patron interest. Programming remained a core strength, with over half a million attendees and increased participation in the Summer Reading Adventure and Adult Programming. Community-focused services remained in high demand, including notary services, technology assistance, and RECA support, highlighting the Library’s role as both an access point for essential services and a trusted community resource and partner.
+Total circulation in 2025 reached 11,065,532, representing a slight 0.17% decrease compared to 2024. The Daniel Boone Branch recorded the highest circulation among all locations, with 906,193 checkouts. Library employees fulfilled 1,125,573 patron holds and checked in 6,468,528 items. (Plan: Promote Literacy 1a)
+eMedia circulation accounted for 34% of total circulation, totaling 3,719,509 checkouts. This reflects significant growth compared to 2019, when eMedia represented only 13% of overall circulation. Children’s print materials comprised 27% of total circulation in 2025, while adult print materials accounted for 21%. DVD circulation represented 21% of total circulation in 2019 but declined to 8.5% in 2025. (Plan: Promote Literacy 1a, 3b)
+The Library added Gateway to Reading kits and games in 2025. The kits and games have circulated nearly 5,000 times since they were introduced. Tonies and Yotos were also introduced in 2025. The devices have circulated over 1,000 times, and remain very popular. (Plan: Promote Literacy 1a, 2a, 2b)
+A total of 3,131,323 patrons visited the library in 2025, a 1.6% decrease compared to 2024. This total includes 61,225 visitors to the History and Genealogy Department and 29,883 visitors to the Creative Lab. Within the Creative Lab, 1,457 patrons used the Game Lounge, 54 used the Green Screen Corner, and 371 patrons used the recording room. (Plan: Increase Access 1a)
+The branches registered 41,891 new patrons in 2025. The Clark Family Branch had the highest number of new registrations, with 6,211 accounts created. Twenty-three school districts participated in the ConnectEd program, providing over 75,000 students with access to online databases and eMedia. (Plan: Promote Literacy)
+A total of 503,159 patrons attended 34,684 programs in 2025. This includes 49,227 Summer Reading Adventure participants, a 6% increase compared to 2024, and 23,146 Winter Reading Club participants. Additionally, 37,600 patrons attended 141 author events featuring 163 authors. The highest number of attendees in the history of the author series. (Plan: Promote Literacy 1b, 1c, 2a, 2b)
+The Library provided 27,568 notary services in 2025, an increase of 23% over the prior year. Employees also delivered technology assistance to 5,578 patrons. In addition, 14,482 COVID test kits, 535 Gun Locks, 308 Narcan kits, and 438 Symphony vouchers were distributed. (Plan: Promote Literacy 3b, Sense of Community 3a, 3c)
+Library employees provided RECA assistance to 6,289 patrons. A total of 7,552 certifications were issued, 3,935 flyers and forms were distributed, and 4,106 record lookups were performed. To date, the Department of Justice has paid out $29,750,000 in RECA claims for the Manhattan Project. (Plan: Sense of Community 3a, 3c)
+Ms. Sorth shared that the 2026 Black History Celebration Committee is thrilled to present this year’s lineup of stellar authors, artists, and events. The 2026 theme is “Exploring 100 Years of Black St. Louis.” The Black History Celebration Committee members are: Brenda West Ammons, Carla Maxwell, Cindy Fehmel, CJ Hall, Crystal Harris, Chelsea Sharp, Jocelyn Moore, and Ja’Mel McCaine. We are so pleased that Ameren is once again the main sponsor for Black History Month. Ameren donated $10,000 in support of the program. Communications created a Black History Month brochure, which will be available in all 20 branches, featuring images of famous Black St. Louisans to go along with the theme. Additional promotions include eBlasts, social media posts, a dedicated webpage, an ad in the MLK insert of the St. Louis American, weekly GO! ads in the Friday Post-Dispatch, and ads on St. Louis Public Radio and KTRS. (Plan: Sense of Community 1a, 1b, Increase Access 2a, 2b)
+Monday, February 2, 7:00 p.m. Clark Family
+Matthew Delmont, “Until the Last Gun is Silent: A Story of Patriotism, the Vietnam War, and the Fight to Save America’s Soul”
+Civil rights historian and award-winning author Matthew Delmont presents the untold story of the Black patriots–from soldiers in combat to peace protestors–who ended the Vietnam War. As the civil rights movement blazed through America, more than 300,000 Black troops were drafted to fight in the Vietnam War. These soldiers, often from disadvantaged backgrounds and subjected to the brutalities of racism back home, found themselves thrust onto the frontlines of a war many saw as unjust.
+2026 Frankie Freeman Inspirational Address
+Friday, February 6, 7:00 p.m. Clark Family
+Vivian Gibson, "The Last Children of Mill Creek"
+In Conversation with Gwen Moore, Curator of Urban Landscape and Community Identity at the Missouri Historical Society
+From its origin at the turn of the 20th century to its destruction in 1959 in the name of urban renewal, Mill Creek Valley was a center for Black life in St. Louis. Vivian Gibson grew up in Mill Creek Valley. Her moving memoir, “The Last Children of Mill Creek,” depicts the families, friends, shop owners, church ladies, teachers, and others who made Mill Creek into a warm, tight-knit African-American community. Gibson will be joined in conversation by Gwen Moore, curator of the Missouri History Museum's exhibition, "Mill Creek: Black Metropolis."
+The Frankie Freeman award will be given to the four people who organized tornado relief and recovery.
+Ohun Ashe - For the Culture
+Michael McMillan - Urban League
+Kayla Reed - Action St. Louis
+Michelle Tucker - United Way
+Monday, February 9, 7:00 p.m. Clark Family
+Gregory O’Malley, “The Escapes of David George: An Odyssey of Slavery, Freedom and the American Revolution”
+A SLCL Black History Celebration and America 250 Event
+One of six inhabitants of the thirteen original colonies was enslaved. Historian Gregory O’Malley reveals a remarkable, untold experience of the American revolutionary period—a Black man’s decades-long quest for the freedom espoused by our Founders, but denied him and other enslaved people. Piecing together archival records and David George’s own brief account of his life—the earliest written testimony by a fugitive enslaved person in North America—O’Malley presents a unique perspective on our nation’s origins, principles, and contradictions.
+Tuesday, February 10, 5:30 p.m. Natural Bridge Branch
+Pat Simmons, "Accomplices in Love: The Jamieson Legacy--The Next Generation"
+Pat Simmons is a St. Louis-based Christian romance author of fifty-plus titles. She is a self-proclaimed genealogy sleuth who is passionate about researching her ancestors, then casting them in starring roles in her novels. Her popular Jamieson Legacy Series weaves American Black history and genealogy with uplifting romance.
+Thursday, February 12, 7:00 p.m. Clark Family
+Lachi, "I Identify As Blind: A Brazen Celebration of Disability Culture, Identity and Power"
+Lachi is an award-winning recording artist, a co-producer of a Grammy-nominated album and the first openly disabled National Trustee of the Recording Academy. Her memoir, "I Identify as Blind" pulses with energy. Through magnetic storytelling, pop-culture deep dives, and historical insight, Lachi challenges mainstream views on disability with humor and heart.
+Wednesday, February 18, 5:00 p.m. Florissant Valley
+Music in Common
+Nonprofit organization Music in Common, an organization committed to empowering and connecting communities through music, will present The Black Legacy Project musical program. A short film will be shown, followed by a live musical performance and discussion.
+Thursday, February 19, 6:00 p.m. Clark Family
+Deborah Roberts, "Sisters Loved and Treasured: Stories of Unbreakable Bonds"
+Veteran ABC News correspondent and 20/20 co-anchor, Deborah Roberts shares a celebration of sisterhood, featuring more than 50 personal stories by Viola Davis, Jenna Bush Hager, Octavia Spencer, and many more. Beacons of support, understanding, and love, sisters are there for us through it all. But how often do we step back from our busy lives to acknowledge what they truly mean to us? In “Sisters Loved and Treasured,” Roberts curates a collection of conversations, meditations, and anecdotes from her own sisters, celebrity friends and everyday people alike who share deeply personal accounts of how their relationships as sisters shaped their lives.
+Friday, February 20, 6:00 p.m. Florissant Valley
+Whispering Sweet Nothings: African American Romance Writer Panel
+Join us for a (post)Valentine’s Day celebration with popular Black romance writers LaQuette, Kristina Forest and Jamie Wesley.
+Saturday, February 28, 1:00 p.m. Clark Family
+Gift of Gospel
+Pastor Shaun Williams returns once again to present amazing local gospel talents. Enjoy listening to Chrystal & Charity Williams, Valaur Dickerson, and others and be ready to have a hand clapping, toe tapping good time.
+Monday, March 9, 7:00 p.m. Clark Family
+Tayari Jones, “Kin”
+Award-winning author of “An American Marriage,” Tayari Jones has written an unforgettable novel about two lifelong friends. Vernice and Annie, motherless daughters raised in Honeysuckle, Louisiana, have been best friends since earliest childhood but are fated to live starkly different lives. A novel about mothers and daughters, friendship and sisterhood, “Kin” is an emotionally rich work from one of the brightest voices in contemporary fiction.
+The Library is partnering with Aspire Advocates to host a full day of events on April 17, 2026, at Clark Family Branch called “There is Hope: A Conversation About Youth Addiction and Recovery.” The event features two researchers from Harvard University who will present about the latest research on addiction and recovery during the afternoon session. (Plan: Promote Literacy 2d, Sense of Community 3a, 3b)
+Throughout 2026, the Library will present programs focusing on the American Revolution and American history in celebration of America’s 250th anniversary. Offerings will include author events with Jack Kelly and other popular history writers. Adult Services will partner with St. Louis County Parks to present programs such as Life on the Frontier in Missouri and Illinois and The War of 1812 in Missouri and Illinois. History & Genealogy will offer district-wide programs as well. Youth Services will provide opportunities for kids to join in the fun, including a Hero Quest display at select branches. Communications created a logo and brochure for the America 250 programming. Promotions will take place throughout the year and will include eBlasts, social media mentions, digital displays in all 20 branches, and quarterly brochures. (Plan: Promote Literacy 1c, 3d, Sense of Community 3a)
+Ms. Sorth reported that the teen usage of the Clark Family Branch was significant. Multiple times throughout December there was at least a 3-hour wait time for study rooms. Study rooms were used 2,159 times and 3,630 patrons used the rooms just in the month of December. (Plan: Sense of Community 3b, Increase Access 1a, 1c)
+The addition of the Teen Engagement Specialist has been a gamechanger at the Prairie Commons Branch. The teens have responded well and rarely do employees need to speak to the teens more than once if there are any issues. On most days, the teens have the meeting room from 2:30-5:00. This gives them a space where they can be loud and be themselves without complaint. The Teen Engagement Specialist has a question of the day, which sometimes creates debate among the teens. She also tries to have a fun craft for them to do. (Plan: Sense of Community 3b, Increase Access 1c)
+Ms. Sorth announced that the sale of ePopUp Library went through. We were notified at the end of December. The new owner is a company called LibraryOne. We are waiting for information about the transition but the current program remains available to patrons and at this point we do not anticipate anything changing for our partners. (Plan: Promote Literacy 1a)
+Brent Trout, the Manager of the History & Genealogy Department, along with representatives from St. Louis County presented information about RECA to 150 attendees at the Daniel Boone Branch last week. Brent and Ms. Sorth, along with Just Moms STL, attended a meeting designed to assist City departments, as well as St. Louis Public Library, with responding to requests from City residents. We talked about how we are assisting residents and the importance of getting the word out to City residents who are eligible.
+Bridgeton Trails also hosted the Pink Angels in their meeting room on Jan. 7 to assist with RECA applications. The employees did a great job of assisting with crowd control as people lined up throughout the branch. (Plan: Sense of Community 3a, 3c)
+The Information Services Department was awarded an Alison Grant from the Foundation to launch a new Safe Sitter program. This program is geared towards teens ages 12–16 who will build childcare, first aid, and CPR skills while also learning key business skills to help them stand out and earn babysitting jobs with confidence. The programs will take place at multiple branches in 2026. (Plan: Promote Literacy 2d, 3a, 3c, Sense of Community 3b)
+Throughout November and December, Adult Services partnered with ten branches and the Bookmobiles and Mobile Services Department to distribute more than 1,000 holiday cards to patrons served by the Senior Vans and Homebound Mailing Service. The initiative followed the conclusion of Project Holiday Cheer, a former program led by Library partner VOYCE. In previous years, branches collected donated cards that were distributed through VOYCE. This year, Adult Services collaborated with Bookmobiles and Mobile Services to take on the distribution role. (Plan: Promote Literacy 3d, Sense of Community 1a, 2a)
+Ms. Sorth shared that the Community Autism Expo will take place at the Clark Family Branch on Saturday, April 11, 2026.
+Due to expected high attendance, the branch will be closed to the public who are not attending the Expo.
+Last year’s Expo featured over 40 participating organizations and almost 700 attendees. We expect an even bigger turnout in 2026. (Plan: Promote Literacy 2d, Sense of Community 1a, 1b, 3a, 3b)
+Total attendance for Adult Services programming reached 28,973 in 2025, a 20% increase over 2024. This growth reflects a strategic shift toward fewer small programs and a greater emphasis on large-scale events. The highest attended program of 2025 was the 25th Annual Daffodil Show, with over 1,000 in attendance. (Plan: Promote Literacy 3d, Sense of Community 1b)
+To celebrate Jane Austen’s 250th birthday, the branches hosted a myriad of programs that totaled more than 340 attendees. Patrons enjoyed craft nights, fiber arts, painting, and movie watch parties of some of Jane Austen’s most famous works. The most popular program was Crafting & Pride & Prejudice, with 52 participants. Patrons were delighted to come together and share their appreciation of this beloved author. (Plan: Promote Literacy 1b, 3d)
+In December, Adult Services and the History and Genealogy Department hosted the 4th annual Beercember: A Celebration of St. Louis Brewing History. The event welcomed 285 patrons who enjoyed Prohibition-era music by Wolf Creek Bluegrass, beer samples from six local breweries served with Gus’ pretzels, and an engaging lecture by Bellefontaine Cemetery’s Dan Fuller on how St. Louis became a major 19th-century beer capital, highlighting the role of natural limestone caves and German immigrants in shaping the City’s brewing industry and beer culture. (Plan: Promote Literacy 3d, Sense of Community 1b)
+Ms. Sorth said in January and February, patrons may join leading historians in the Library’s virtual Challenging History program series. Area experts from St. Louis Museums, universities, and The National Park Service will explore the complex and untold stories of St. Louis’ past, challenging prevailing narratives and fostering a deeper understanding of our diverse history. Topics include “St. Louis and the New Madrid Earthquakes”, “The Great Fire of 1849”, "Unique Gravestones in Black Cemeteries”, etc. (Plan: Promote Literacy 3d)
+The Youth Services Department engaged young patrons and their families and caregivers in creative ways in 2025. Here are some of the statistics:
+1000 Books Before Kindergarten
+Registered: 1,675
+Completed: 305
+Born to Read
+Postpartum Bags given out at 4 WIC sites: 665
+6 Month Bags distributed at 4 WIC sites: 450
+Bookmarks delivered to 7 hospitals: 30,000
+Hospital Bookmarks redeemed at branches: 367
+Gateway to Reading
+(started on Feb 11, 2025)
+Gateway to Reading Workshops: 22
+Workshop Attendees: 313
+After attending a Gateway to Reading Workshop, 96% of participants felt more confident in helping their child learn to read, and 99% planned to spend more time practicing literacy skills with their child. This, however, was just the beginning of Gateway to Reading at SLCL.
+Potty Training 101
+Potty Training 101 Programs: 35
+Potty Training 101 Program Attendees: 1,001
+Kits distributed: 405 (Plan: Promote Literacy 1a, 1b, 2a, 2b, 3d, Sense of Community 2a)
+On Saturday, February 7, 2026, all branches will be celebrating Take Your Child to the Library Day by hosting various activities such as scavenger hunts, and a couple branches will also have a visit from Taco Dragon, the star of the popular book “Dragons Love Tacos” by Adam Rubin. (Plan: Promote Literacy 1b, Increase Access 1a)
+Ms. Sorth reported the Library hosted a table at Winter Warm Up last weekend, giving out Winter Warm Up 2026 and make-your-own buttons and providing brochures on library programs and resources. The Cardinals’ Care Bookmobile was also in attendance. She was interviewed on stage about the partnership between the Library and the Cardinals. Plan: Sense of Community 2b, 2c, 2d, 3a)
+There were mentions of the St. Louis County Library in the local media in print, radio and television. Those articles are
+attached. (Plan: Increase Access 2)
+Here are pictures from various events and programs that have taken place over the last month including: Beercember at Clark Family, Freedom’s Eve at Lewis & Clark, Noon Year’s Eve at Grand Glaize (Plan: Promote Literacy 1b, 1c, 3d; Sense of Community 1b, 3b, 3c)
+Ms. Sorth shared the following impact stories
+“I stopped by the library (Clark Branch) on a random Sunday to get some printing done. It took me almost 10 minutes to turn off of the main road into the lot because there were so many cars! I assumed there must be an event to draw such a crowd. I asked a librarian at the main circulation desk and she said no, not on a Sunday. I almost teared up on the spot. It is a literal dream to see a public library so full and active and joyful. The building itself is beautiful, but I am so elated to see the people. The 3rd space. Simplicity and accessibility! Thank you! It may sound cheesy or weird - but I feel restored and hopeful in a way I really needed.” (Plan: Increase Access 1)
+The Tap In Center often gets referrals from the Legal Advocate at the Women's Safe House. The advocate sent a note stating, "Because of you we continue to be able to give our clients a voice for justice in their case as a legal advocate" (Plan: Sense of Community 3b)
+Regarding RECA: "Appreciate the support. So Helpful. Everyone has been so helpful. It's so great to be able to call people and ask questions. This RECA process is so complicated and stressful. So many sites are charging more for certification that shouldn't be. And they are just taking people's money. And I like to think I'm smart, but this process is so complicated. This is my third application to fill out. Done one for my brother who is sick and can't do this himself. And it's so confusing. Now doing this for my parents. It's so nice that there are people - Danielle, the library, even the DOJ - who are answering the phone and being so supportive. As a librarian, I was so surprised when I heard St. Louis County Library was taking this on. It's not what you signed up for, especially not in a genealogy department. But I'm so impressed. I said to myself, "These are my people." (Plan: Sense of Community 3c)
+“The Natural Bridge helped me graduate from law school. I spent hours in study room two until I graduated.” (Plan: Promote Literacy 3c, Increase Access 1c)
+From John Greifzu, the CEO of the St. Charles City-County Library: “I had the opportunity to visit five St. Louis County Library branches today, and at each location a staff member greeted me, asked how they could help, and in several cases offered an impromptu tour. You have some great facilities, but what truly stood out was your staff.” (Plan: Increase Access 1)
+“I'm such a huge fan of bookmobiles! From my school days to just a few years ago when my mom was in a nursing home, going blind, and unable to get to the library for her books/tapes. The librarian was my hero! I'm so happy to learn you've purchased more of them. Our libraries and librarians are gems of our culture, great resources for all of us. Thank you so much!” (Plan: Sense of Community 2a, 3c)
+Library Administrative Updates
+Ms. Sorth reported in 2021, the Library embarked on a much more involved and transparent financial reporting process by creating a Comprehensive Financial Report. For the sixth year in a row, the Library’s work has been acknowledged. We are again receiving the Government Finance Officers Association (GFOA) Certificate of Achievement for Excellence in Financial Reporting. The GFOA established the Certificate of Achievement for Excellence in Financial Reporting Program in 1945 to encourage and assist state and local governments to go beyond the minimum requirements of generally accepted accounting principles to prepare comprehensive annual financial reports that evidence the spirit of transparency and full disclosure and then to recognize individual governments that succeed in achieving that goal. The Certificate of Achievement is the highest form of recognition in government accounting and financial reporting. Congrats to CFO, Laura Taylor, and the Finance Department on this prestigious honor. (Plan: Increase Access 2c)
+There have been many bills filed by state legislators regarding property taxes. We are following these bills carefully.
+Ms. Sorth shared that both she and Laura Taylor, CFO, met with the Library’s Financial Advisor, Piper Sandler, to discuss a future financial framework that would support for the replacement over time of the library branches that were only renovated during the Your Library Renewed Campaign. Different options for financing and construction timelines were part of the preliminary conversation. (Plan: Increase Access 1)
+Ms. Sorth and Eric Button, Deputy Director, participated in interviews for the 7
+th
+social worker as part of the Library’s partnership with Epworth. Sandra Weissinger, the new social worker, started at Epworth today. She will move to the Natural Bridge Branch after her training is complete. This will allow Katie Lappe, the Lead Library Social Worker, more time to manage the Community Resource Initiative and the team. (Plan: Sense of Community 3a, 3b)
+A team of six managers and administrators will be attending the Missouri Library Association’s Library Advocacy Day on February 3, 2026, in Jefferson City. They will be meeting with more than 30 elected officials representing the Library District and sharing information about the important work of the Library. A major focus this year is helping officials understand the importance of property taxes to Library funding. There are ever-increasing threats to both real and personal property assessments and taxes. (Plan: Sense of Community 2d)
+The Library is renewing its subscription with MangoApps, the software platform that powers Stacks, the employee intranet. Stacks is the primary tool used by employees for operational information, policies, internal resource sharing, and engagement. This renewal is for a five-year period and retains the existing pricing structure based on monthly active users, ensuring no disruption to employee access and a stable cost. (Plan: Increase Access)
+Ms. Sorth reported the Library is soliciting applications for a new human resources manager to replace Mary Arnhart after her retirement. The position is being advertised widely and we have partnered with EMD Consulting to support the search and ensure we receive strong applicants. Roberto
+Münster
+is serving as Interim Human Resources Manager until a replacement is hired.
+Communications has created a Year in Review for 2025. This document will be posted to our website with the previous Years in Review. In addition, this document is shared with potential donors, legislators, the media and community organizations when appropriate. (Plan: Increase Access 2c)
+The Library was offered 80 tickets by the St. Louis Sports Commission to the U.S. Figure Skating Championships at the Enterprise Center. They directed us to make those tickets available to young patrons in underserved communities. We were thrilled to be able to deliver all of the tickets to three separate days of competition. (Plan: Sense of Community 3a, 3b)
+Ms. Sorth shared that last year, the DOJ updated its regulations for Title II of the Americans with Disabilities Act (ADA). The ruling has specific requirements about how state and local government entities ensure their web content and mobile applications (apps) are accessible to people with disabilities. Public libraries, schools, universities, courts, DMVs, public health organizations and other government entities are all impacted. Third party platforms such as databases, OverDrive, Libby and the Digital Archives must also be in compliance. The ruling also applies to all social media posts. The Library’s website already incorporates many of these guidelines such as using alt text for images, appropriate color contrast for text, and logical heading order for patrons using screen readers. In 2025, the Library purchased software to help identify outstanding accessibility issues with our website and to provide additional training. Jen Messmer has been working diligently behind the scenes using the tools, along with our web vendor, Interpersonal Frequency, to address issues. Next steps involve working with History & Genealogy, Information Services and other departments to work with third party vendors to ensure they meet the guidelines. Prior to the deadline, we will add an accessibility statement to our website to inform patrons about our efforts and give them a way to contact us with issues. (Plan: Sense of Community 3b, Increase Access 1d)
+Library Construction, Facility, IT and Transportation Update
+Ms. Sorth announced the Request for Proposals for the construction of the new Guy and Judy Jaffe Family Branch was posted on December 8, 2025. Proposals are due on January 27, 2026. The Library Board will have a special virtual Board Meeting on February 9, 2026 to review a recommendation for a General Contractor. The Sachs Branch will close to the public on
+January 31, 2026
+as we begin to prepare the branch for demolition and construction. We have scheduled the groundbreaking for February 24, 2026. A save the date has been shared and formal invitations will go out via email in February. Information about the closure and the plans have been sent to patrons and the media and shared widely. Patrons have been notified that their holds will move to the Thornhill Branch. The collection will be redistributed throughout the District, and the branch employees have been informed of their assignments to branches throughout the District. We will once again use an auction company to assist with any surplus inventory. We will move furniture and equipment that will be maintained to other branches or into storage. (Plan: Increase Access 1a, 1b, 1c)
+All repairs and updates to the HVAC units at the Lewis & Clark Branch have been finalized. All systems are now up and running, including the newly commissioned system which is dedicated to the computer labs. (Plan: Increase Access 1c)
+The upgrades to the Grant’s View Meeting Room AV are complete. The new system enhances the utility of the space for community use. (Plan: Increase Access 1a)
+New furniture has been distributed throughout the adult and children’s collections at the Cliff Cave Branch. (Plan: Increase Access 1a)
+Daniel Boone will receive new furniture in late January for their children’s area as well as new benches for the teen area. These new additions will replace furniture that has begun to peel and show considerable signs of age. (Plan: Increase Access 1a)
+Ms. Sorth reported repairs and enhancements to the Reading is Magic bookmobile were completed and the vehicle was re-delivered by CAD Industries on Saturday, January 24. Full payment has now been made for the bookmobile. It will go back into service serving schools this week. (Plan: Sense of Community 2a, Increase Access 1a)
+Library Foundation and Grants
+The Foundation has surpassed its fundraising goal of $42,000 for the 2025 Fall Appeal, raising $80,143 through 284 donations. The appeal was themed “Your Impact Travels” and highlighted how gifts make an impact across the region. A detailed year-in-review will be presented at the February Library Board Meeting. (Plan: Increase Access 2c)
+Ms. Sorth shared the Foundation is planning a 24-hour giving campaign which will take place on Take Action for Libraries Day, April 23, 2026. This is the final day of the American Library Association’s National Library Week. The campaign will include eblasts and a social media push.
+(Plan: Increase Access 2c)
+The Foundation created an eblast and social media post celebrating National Sticker Day, encouraging patrons to purchase Branch Pride stickers from the Online Store, with all proceeds benefiting the Library. $675 worth of stickers were sold over the two-day campaign. (Plan: Increase Access 2c)
+Library and Foundation Grants:
+The Library received a $44,000 Library Services & Technology Act grant from the Missouri State Library to support the 2026 STL Summer Adventure collaboration between SLCL and SLPL. (Plan: Promote Literacy 1a, 1b, Sense of Community 3a)
+Author Events (Plan: Promote Literacy 1c)
+Highlights
+Ms. Sorth shared that the February Author Series schedule will feature several events as part of the 2026 Black History Celebration. Featured authors include Civil Rights historian Matthew Delmont, ABC News correspondent and 20/20 Anchor Deborah Roberts, bestselling historical fiction author Sadeqa Johnson, and Grammy-nominated recording artist Lachi. The 2026 Frankie Freeman Address will host Vivian Gibson, author of the memoir “The Last Children of Mill Creek,” with Gwen Moore, curator of the Missouri History Museum’s current exhibit, “Mill Creek: Black Metropolis.” The Library will also host a celebration of Black romance writers at the Florissant Valley Branch and St. Louis inspirational author Patricia Simmons at the Natural Bridge Branch.
+January is often a quiet month for author events but we had several well-attended events including Brad Meltzer and Jacob Soboroff.
+January/February Author Events
+Elizabeth Vartkessian, “The Deserving: What the Lives of the Condemned Reveal About American Justice” - Tuesday, January 27, 7:00 p.m. - Clark Family Branch - Free
+Lori Rader-Day, “Wreck Your Heart,” Thursday, January 29, 7:00 pm - Clark Family Branch - Free
+Matthew Delmont, “Until the Last Gun is Silent: A Story of Patriotism, the Vietnam War, and the Fight to Save America’s Soul” - Monday, February 2, 7:00 p.m. - Clark Family Branch - Free
+Vivian Gibson, “The Last Child of Mill Creek” - Friday, February 6, 7:00 p.m. - Clark Family Branch - Free
+Gregory O’Malley, ‘The Escapes of David George: An Odyssey of Slavery, Freedom, and the American Revolution” - Monday, February 9, 7:00 p.m. - Clark Family Branch - Free
+Patricia Simmons, “Accomplices in Love” - Tuesday, February 10, 7:00 p.m. - Natural Bridge Branch - Free
+George Saunders, “Vigil” - Wednesday, February 11, 7:00 p.m. - Clark Family Branch - Ticketed
+Lachi, “I Identify As Blind: A Brazen Celebration of Disability Culture, Identity and Power” - Thursday, February 12, 7:00 p.m. - Clark Family Branch - Free
+Gregg Hurwitz, “Antihero: An Orphan X Novel” - Tuesday, February 17, 7:00 p.m. - Clark Family Branch - Free
+Deborah Roberts, “Sisters Loved and Treasured: Stories of Unbreakable Bonds” - Thursday, February 19, 6:00 p.m. - Clark Family Branch - Free
+African American Romance Night featuring LaQuette, Kristina Forest & Jamie Wesley - Friday, February 20, 7:00 p.m. - Florissant Valley Branch - Free
+Misha Brown - “Be Your Own Bestie: A No-Nonsense Guide To Changing the Way You Treat Yourself” - Saturday, February 21, 7:00 p.m. – Clark Family Branch - Ticketed/Sold Out
+Sadeqa Johnson, “Keeper of Lost Children” - Tuesday, February 24, 7:00 p.m. - Clark Family Branch – Free
+C.J. Box, “The Crossroads: A Joe Pickett Novel” - Friday, February 27, 7:00 p.m. - Clark Family Branch - Free
+OLD BUSINESS
+None
+NEW BUSINESS
+Strategic Plan Activities Preview 2026
+Jennifer Gibson, Assistant Director of Strategic Initiatives, presented a review of 2025 and a preview for 2026, covering the three pillars: promote literacy and support lifelong learning, foster a sense of community, inclusion and belonging, and increase access, impact, and awareness.
+Managed Print Services Renewal
+Gib Van Cleve, Assistant Director of IT, presented the recommendation.
+Library Administration recommends a new 36-month contract for managed print services from GFI Digital at the annual cost of $183,975.48 commencing on February 1, 2026, and that the Board authorize the Director & CEO to enter into and execute a contract to that effect. Managed print services are included in the 2026 Information Technology budget.
+Motion by Lynn Beckwith, second by Ted Sanditz.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith, May Scheve Reardon
+Investments
+Laura Taylor, CFO, presented the recommendation.
+Library Administration recommends the selection of Midwest BankCentre who returned the highest average yield of all maturities at 3.75% for the
+investment of the entire 2026 portfolio and the Board authorizes the Director and CEO to enter into and execute a contract to that effect.
+Motion by Lynn Beckwith, second by Deborah Patterson.
+Final Resolution: Motion Carries
+Aye: Deborah Patterson, Ted Sanditz, Lynn Beckwith, May Scheve Reardon
+Abstain: Johnny Wang
+ADJOURNMENT
+Motion to adjourn the meeting.
+Motion by Deborah Patterson, second by Lynn Beckwith.
+All approved by voice vote.
+Final Resolution: Motion Carries
+Aye: Johnny Wang, Deborah Patterson, Ted Sanditz, Lynn Beckwith, May Scheve Reardon
+Meeting adjourned at 4:15 p.m.
+Respectfully submitted by,
+__________________________________ __________________________ _________
+May Scheve Reardon Date
+Secretary

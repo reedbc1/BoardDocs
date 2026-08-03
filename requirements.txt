@@ -9,3 +9,5 @@ tiktoken
 sentence-transformers
 chromadb
 rank-bm25
+requests
+beautifulsoup4
