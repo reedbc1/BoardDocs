@@ -1,7 +1,6 @@
 const fs = require("fs");
 const cheerio = require("cheerio");
 
-
 async function getBoardIds() {
     const response = await fetch("https://go.boarddocs.com/mo/slcl/Board.nsf/BD-GETMeetingsListForSEO?open&0.6159169630587711", {
     "headers": {
@@ -139,6 +138,7 @@ async function main() {
 }
 
 main().catch(console.error);
+console.log(downloadMinutes("9GX2PP6A2F54"))
 
 function extractText(html) {
     
